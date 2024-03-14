@@ -23,6 +23,8 @@
   <img src="./docs/teaser.png" alt="Logo" width="100%">
 </div>
 
+https://github.com/Colmar-zlicheng/Spring-Gaus/assets/111580763/eabaaa5f-b6ae-40ea-8e2e-03461c03e28c
+
 ## :rocket: Dependencies
 ```shell
 git clone https://github.com/Colmar-zlicheng/Spring-Gaus.git --recursive
