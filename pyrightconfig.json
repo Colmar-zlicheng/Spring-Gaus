@@ -1,0 +1,9 @@
+{
+    "exclude": [
+        "**/__pycache__",
+        "**/data/**",
+        "**/checkpoints/**",
+        "**/exp/**",
+        "**/tmp/**",
+    ]
+}

@@ -1,0 +1,25 @@
+DEFAULT: config/mpm_synthetic/default.yaml
+CHECKPOINTS_ROOT: checkpoints/cross
+
+DATA:
+  TYPE: MPM_Synthetic
+  DATA_ROOT: data/mpm_synthetic/render
+  OBJ_NAME: cross
+  N_CAM: 10
+  N_FRAME: 20
+  FRAME_ALL: 30
+  HIT_FRAME: 5
+  H: 512
+  W: 512
+  WHITE_BKG: False
+  XYZ_MIN: [0.3, 0.4, 0.3]
+  XYZ_MAX: [0.7, 0.8, 0.7]
+  BC: [[[0, 0.3, 0], [0, 1, 0]]]
+
+  DT: 0.03
+  GLOBAL_M: 1
+  GLOBAL_K: 1000
+  GLOBAL_DAMP: 0.1
+
+  EVAL_FREQ: 60
+  EVAL_FRAME: 60

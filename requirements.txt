@@ -1,0 +1,12 @@
+opencv-python==4.8.1.78 
+open3d==0.17.0
+imageio==2.26.0 
+termcolor==2.1.0
+gitpython==3.1.30
+pyyaml==6.0
+yacs==0.1.8 
+yapf==0.32.0
+yarl==1.8.2
+tqdm==4.66.1
+plyfile==0.8.1
+trimesh==4.0.5

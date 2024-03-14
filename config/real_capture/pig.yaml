@@ -1,0 +1,35 @@
+DEFAULT: config/real_capture/default.yaml
+CHECKPOINTS_ROOT: checkpoints/pig
+
+REAL: True
+
+DATA:
+  TYPE: Real_Capture
+  DATA_ROOT: data/real_capture
+  OBJ_NAME: pig
+  SEQ: 0
+  N_CAM: 3
+  FRAME_ALL: 50
+  H: 1080
+  W: 1920
+  H_S: 2672
+  W_S: 4752
+  WHITE_BKG: False
+  BC: [[[0, 0, -0.025], [0, 0, -1]]]
+  XYZ_MIN: [0.0, 0.0, -0.3]
+  XYZ_MAX: [0.3, 0.4, -0.1]
+
+  REGIST:
+    INIT_R: [90, 0, 90]
+    INIT_T: [0.09, 0.26, -0.23]
+    INIT_S: [0.1]
+
+  FREQ: 120
+  GLOBAL_M: 1
+  GLOBAL_K: 200
+  GLOBAL_DAMP: 0.1
+
+  EVAL_FREQ: 120
+  EVAL_FRAME: 60
+
+  IMG_IS_MASK: True
