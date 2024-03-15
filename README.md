@@ -14,7 +14,7 @@
 <h3 align="center">
   <a href="https://colmar-zlicheng.github.io/spring_gaus"><strong>Project Page</strong></a>
   |
-  <a href="#"><strong>arXiv</strong></a>
+  <a href="https://arxiv.org/abs/2403.09434"><strong>arXiv</strong></a>
   |
   <a href="https://drive.google.com/drive/folders/1SN4vrPZSuBnbkDTLl0nu9g-boVUr5yO1?usp=sharing"><strong>Data</strong></a>
 </h3>
@@ -96,7 +96,7 @@ This code is available for non-commercial scientific research purposes as define
 @article{zhong2024springgaus,
     title     = {Reconstruction and Simulation of Elastic Objects with Spring-Mass 3D Gaussians},
     author    = {Zhong, Licheng and Yu, Hong-Xing and Wu, Jiajun and Li, Yunzhu},
-    journal   = {arXiv preprint},
+    journal   = {arXiv preprint arXiv:2403.09434},
     year      = {2024}
 }
 ```
