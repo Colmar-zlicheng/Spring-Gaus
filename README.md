@@ -89,7 +89,7 @@ python test.py -g 0 --cfg ${CONFIG_FILE} --exp_id ${EXP_ID} --dy_reload ${PATH_T
 
 ## :key: License
 
-This code is available for non-commercial scientific research purposes as defined in the [LICENSE](LICENSE) file. By downloading and using the code you agree to the terms in the [LICENSE](LICENSE).
+The code and model provided herein are available for usage as specified in the [LICENSE](LICENSE) file. By downloading and using the code you agree to the terms in the [LICENSE](LICENSE).
 
 
 ## :earth_asia: Citation
