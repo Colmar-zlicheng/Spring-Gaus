@@ -9,6 +9,7 @@
     ·
     <a><strong>Yunzhu Li</strong></a>
   </p>
+  <h2 align="center">ECCV 2024</h2>
 </p>
 
 <h3 align="center">
@@ -98,7 +99,7 @@ This code is available for non-commercial scientific research purposes as define
 @article{zhong2024springgaus,
     title     = {Reconstruction and Simulation of Elastic Objects with Spring-Mass 3D Gaussians},
     author    = {Zhong, Licheng and Yu, Hong-Xing and Wu, Jiajun and Li, Yunzhu},
-    journal   = {arXiv preprint arXiv:2403.09434},
+    journal   = {European Conference on Computer Vision (ECCV)},
     year      = {2024}
 }
 ```
