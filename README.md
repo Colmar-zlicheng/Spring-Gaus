@@ -3,7 +3,7 @@
   <p align="center">
     <a><strong>Licheng Zhong</strong></a>
     ·
-    <a><strong>Hong-Xing "Koven" Yu</strong></a>
+    <a><strong>Hong-Xing (Koven) Yu</strong></a>
     ·
     <a><strong>Jiajun Wu</strong></a>
     ·
